@@ -6,17 +6,17 @@ A web app where pragmatic sales team use to show clients what kind of AI tools t
 
 ## Why
 
-It is main purpose is to get clients see what pragmatic can do before creating an Entire application for that client.
+Its main purpose is to get clients see what pragmatic can do before creating an Entire application for that client.
 
 ## App users
 
 Main Users in this MVP include
--admin
--sales team
--pragmatic clients
+- admin
+- sales team
+- pragmatic clients
 
 1. **Sales Team**
-   In this MVP sales team can
+In this MVP sales team can
 
 - login
 - manage(create & update) clients
